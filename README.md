@@ -27,13 +27,10 @@ Once you've linked your GitHub repository to CodeSync, the deployment process is
 
 ## Support
 
-For any inquiries or assistance, please contact our support team at support@codesync.com.
+For any inquiries or assistance, please contact our support team at mr.rahulsain@icloud.com
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-We would like to thank the open-source community for their invaluable contributions to the tools and libraries used in developing CodeSync.
 
